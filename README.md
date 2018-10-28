@@ -1,1 +1,1 @@
-## I%A vizualizations
+## Information & Analytics Visualizations
